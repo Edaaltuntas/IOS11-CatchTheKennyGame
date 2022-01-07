@@ -22,7 +22,6 @@ class ViewController: UIViewController {
     @IBOutlet weak var timeLabel: UILabel!
     @IBOutlet weak var scoreLabel: UILabel!
     @IBOutlet weak var highScoreLabel: UILabel!
-    @IBOutlet weak var kennyView: UIView!
     @IBOutlet weak var kenny: UIImageView!
     
     
